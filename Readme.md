@@ -1,6 +1,6 @@
 # Dashboard
 
-A MERN stack application built to view,analyse and sort the transaction dara
+A MERN stack application built to view,analyse and sort the transaction data
 
 ## Introduction
 
